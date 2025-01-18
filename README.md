@@ -6,16 +6,3 @@ Hello and welcome to my website. Its a place where I informer my fans or just AN
 On the first of january the new website of Rani has bin made. he says "I hope it will be a good website for all of you and I hope it will make you all do the same". It is a funny
 project
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Page</title>
-</head>
-<body>
-    <h1>Welcome to My GitHub Page!</h1>
-    <p>This is a simple website hosted on GitHub Pages.</p>
-</body>
-</html>
